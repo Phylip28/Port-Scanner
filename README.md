@@ -16,4 +16,6 @@ y las versiones de los servicios en dichos puertos.
 
 ## Instalacion
 
-
+1. Clona este repositorio en tu maquina local
+```bash
+git clone https://github.com/Phylip28/port_scanner.git
