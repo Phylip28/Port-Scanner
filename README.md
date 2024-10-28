@@ -18,4 +18,4 @@ y las versiones de los servicios en dichos puertos.
 
 1. Clona este repositorio en tu maquina local
 ```bash
-git clone https://github.com/Phylip28/port_scanner.git
+git clone https://github.com/Phylip28/Port_Scanner.git
