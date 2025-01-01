@@ -7,7 +7,7 @@ def scan_ports(target):
 
 if __name__ == "__main__":
 	if len(sys.argv) != 2:
-		print("Uso: python3 port_scanner.py <direccion IP o dominio>")
+		print("Forma de uso -> python3 port_scanner.py <direccion IP o dominio>")
 		sys.exit(1)
 
 	target = sys.argv[1]
